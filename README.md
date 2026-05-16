@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Andreea 👋
 
-<!--
-**AndreeaGocan/AndreeaGocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Data Engineering and building projects focused on data pipelines, SQL transformations, and analytics.
 
-Here are some ideas to get you started:
+Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* PostgreSQL
+* SQL
+* Power BI
+* Pandas
+
+Projects:
+
+🚀 Sales Analytics Pipeline
+End-to-end project using Bronze, Silver, and Gold layered architecture to transform raw sales data into business-ready insights and Power BI dashboards.
+
+Currently learning:
+
+* Kafka
+* PySpark
+* Data pipeline design
+
+Connect with me:
+
+GitHub: https://github.com/AndreeaGocan
